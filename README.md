@@ -20,7 +20,7 @@ As it can be seen in the following photos, our setup for electrospinning contain
 
 ![2022_10_23_14_24_12](https://user-images.githubusercontent.com/117934226/201312395-d725e3f2-b420-4fe0-8efb-fde4d06b6a68.png)
 
-CV, lifetime, EIS, and cahrge-discharge tests are performed using *AutoLab*:
+## CV, lifetime, EIS, and cahrge-discharge tests are performed using *AutoLab*:
 
 ![photo_2022-11-11_12-59-37](https://user-images.githubusercontent.com/117934226/201310964-36e90969-8945-43ce-b78d-968f497928a2.jpg)
 
