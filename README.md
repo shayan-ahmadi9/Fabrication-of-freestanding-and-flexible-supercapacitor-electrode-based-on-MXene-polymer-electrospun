@@ -12,7 +12,9 @@ As it can be seen in the following photos, our setup for electrospinning contain
 ![photo_2022-11-11_12-40-05](https://user-images.githubusercontent.com/117934226/201306457-9b4e391a-a974-4c5d-8f54-f09720922d42.jpg)
 ![photo_2022-11-11_12-40-06](https://user-images.githubusercontent.com/117934226/201306467-453a74c4-55e7-4a57-8c19-76f9498650b7.jpg)
 ![photo_2022-11-11_12-40-17 - Copy](https://user-images.githubusercontent.com/117934226/201306860-35a5950f-8da8-47ab-a326-848b85c66f24.jpg)
-![photo_2022-11-11_12-40-08](https://user-images.githubusercontent.com/117934226/201306481-068f9cce-bff8-47cc-a56f-228b063abd01.jpg)
+![photo_2022-11-11_20-36-15](https://user-images.githubusercontent.com/117934226/201392799-39826158-c3ec-4754-b2fc-6f7db23522e7.jpg)
+![photo_2022-11-11_20-37-26](https://user-images.githubusercontent.com/117934226/201392820-10fbb42c-c543-4ee0-ae6c-0a1c2a69966d.jpg)
+
 
 ## A Sample SEM
 
